@@ -71,4 +71,14 @@ plot(bati$nb_bati_leger,bati$surface_parcelle)
 
 dhgehgzegbfytgfbvzefveyvfzyb
 gvytfytgvb
-ygynfgvyutrfv y
+ygynfgvyutrfv 
+
+
+uyvdtr 
+
+iuhnuybf kjknk,gy
+hghtgdrtrh
+kjhghtrcg
+jnhgtrddcg
+kjh,gntbrdcrg
+khjnytrrd
