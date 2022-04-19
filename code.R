@@ -68,3 +68,7 @@ plot(bati$annee_const,bati$NbPieces,xlim=c(1400,2022))
 plot(bati$annee_const,bati$nb_angles,xlim=c(1400,2022))
 plot(bati$superficie,bati$nb_bati_leger)
 plot(bati$nb_bati_leger,bati$surface_parcelle)
+
+dhgehgzegbfytgfbvzefveyvfzyb
+gvytfytgvb
+ygynfgvyutrfv y
